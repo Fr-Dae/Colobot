@@ -57,4 +57,4 @@
 	url = https://github.com/kurg/Colobot-Old-Custom-Levels
 [submodule "Game/Data/Levels/Kurg-old"]
 	path = Game/Data/Levels/Kurg-old
-	url = https://github.com/kurg/Colobot-Old-Custom-Levels
+	url = https://github.com/kurg/Colobot-Old-Custom-Levels/tree/Custom-Levels
