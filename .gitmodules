@@ -4,3 +4,57 @@
 [submodule "Scripts/OdyX"]
 	path = Scripts/OdyX
 	url = https://github.com/OdyX/colobot-data-archive
+[submodule "Autres/Atom"]
+	path = Autres/Atom
+	url = https://github.com/MrSimbax/vscode-colobot-extension
+[submodule "Autres/VSCODE"]
+	path = Autres/VSCODE
+	url = https://github.com/MrSimbax/vscode-colobot-extension
+[submodule "Autres/SublimeText"]
+	path = Autres/SublimeText
+	url = https://github.com/MrSimbax/sublime-colobot-syntax
+[submodule "Scripts/SmileSick"]
+	path = Scripts/SmileSick
+	url = https://github.com/SmileSick/Colobot-Walkthrough
+[submodule "Game/Data/TextureHD"]
+	path = Game/Data/TextureHD
+	url = https://github.com/bayerchemistry/colobot-hd-raster
+[submodule "Scripts/ioleshko"]
+	path = Scripts/ioleshko
+	url = https://github.com/cCppProsto/colobot
+[submodule "Scripts/GiovaniRizzato"]
+	path = Scripts/GiovaniRizzato
+	url = https://github.com/GiovaniRizzato/Scripts-Colobot
+[submodule "Scripts/Aib"]
+	path = Scripts/Aib
+	url = https://github.com/aib/colobot-programs
+[submodule "Scripts/cvl75"]
+	path = Scripts/cvl75
+	url = https://github.com/cvl75/colobot-scripts
+[submodule "Scripts/SmileSick-1"]
+	path = Scripts/SmileSick-1
+	url = https://github.com/SmileSick/Colobot-Advent_of_code
+[submodule "Scripts/Ahisyam"]
+	path = Scripts/Ahisyam
+	url = https://github.com/ahisyam/Ecam-Colobot-Scripts
+[submodule "Scripts/Pestoffne"]
+	path = Scripts/Pestoffne
+	url = https://github.com/pestoffne/ColobotPrograms
+[submodule "Scripts/Karl5252"]
+	path = Scripts/Karl5252
+	url = https://github.com/karl5252/COLOBOT
+[submodule "Game/Data/Levels/Kurg"]
+	path = Game/Data/Levels/Kurg
+	url = https://github.com/kurg/ColobotLevels
+[submodule "Game/Data/Levels/muzscaly"]
+	path = Game/Data/Levels/muzscaly
+	url = https://github.com/muzscaly/colobot-racelevel
+[submodule "Game/Data/Levels/Erfik8"]
+	path = Game/Data/Levels/Erfik8
+	url = https://github.com/Erfik8/Colobot_my_Level
+[submodule "Scripts/Kurg"]
+	path = Scripts/Kurg
+	url = https://github.com/kurg/Colobot-Old-Custom-Levels
+[submodule "Game/Data/Levels/Kurg-old"]
+	path = Game/Data/Levels/Kurg-old
+	url = https://github.com/kurg/Colobot-Old-Custom-Levels
