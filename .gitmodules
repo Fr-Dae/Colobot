@@ -1,3 +1,6 @@
 [submodule "Translation/OdyX"]
 	path = Translation/OdyX
 	url = https://github.com/OdyX/colobot-level-i18n-infra
+[submodule "Scripts/OdyX"]
+	path = Scripts/OdyX
+	url = https://github.com/OdyX/colobot-data-archive
